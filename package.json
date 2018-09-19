@@ -1,0 +1,22 @@
+{
+    "name": "@stockmind/vue-brace",
+    "version": "0.2.0",
+    "description": "Code editor powered by Vuejs and browserify Ace.",
+    "repository": "stockmind/vue-brace",
+    "main": "src/Brace.vue",
+    "peerDependencies": {
+        "vue": ">=2"
+    },
+    "keywords": [
+        "vue",
+        "ace",
+        "vue2",
+        "vue-brace",
+        "brace"
+    ],
+    "dependencies": {
+        "brace": "^0.11.0"
+    },
+    "author": "Simone Roberto Nunzi",
+    "license": "MIT"
+}
