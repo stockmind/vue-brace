@@ -87,6 +87,10 @@ export default {
     editor.getSession().on('change', this.emitCode)
   },
   watch: {
+    //** NOT WORKING TWO-WAY BINDING, WRONG PROP, NEED A FIX **/
+    value (newVal) {
+      editor.getSession().setValue(newVal);
+    },
     mode () {
       this.setMode()
     },

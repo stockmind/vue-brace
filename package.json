@@ -1,6 +1,6 @@
 {
     "name": "@stockmind/vue-brace",
-    "version": "0.2.0",
+    "version": "0.3.2",
     "description": "Code editor powered by Vuejs and browserify Ace.",
     "repository": "stockmind/vue-brace",
     "main": "src/Brace.vue",
