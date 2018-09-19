@@ -1,5 +1,7 @@
 # Vue Brace
 
+![Vue Brace](https://github.com/stockmind/vue-brace/raw/master/screenshot.png)
+
 Code editor powered by Vue 2 and browserify Ace (Brace)
 
 Fork of [vue-bulma-brace](https://github.com/vue-bulma/brace/)
